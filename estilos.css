@@ -1,0 +1,24 @@
+*{ font-family: 'Roboto', sans-serif;
+
+  font-weight: bold;
+   box-sizing: border-box;
+   border-radius: 10px;
+  }  
+  
+body {
+  background-color: rgb(210, 222, 247);
+}
+#mi-nombre { color: white; }
+
+#mis-datos { background-color:skyblue; color: blue;  text-align:center;}
+
+#boton-datos { font-size: large; font-weight: bold;}
+
+#boton-ocultar { font-size: large; font-weight: bold;}
+
+.texto-cv { font-size:  1.5em;}
+
+.mb-3 {
+  margin-left: 10px;
+}
+.titulos { margin-top: 20px ; margin-bottom: 20px;}
